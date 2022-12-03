@@ -2,4 +2,4 @@
 
 ### Use when we need to find a target feature(class) relative to one non-target feature
 
-![plot](./diff.JPGg)
+![plot](./diff.jpg)
