@@ -6,3 +6,4 @@
 - Logistic regression Multiclass
 - Decision Tree 
 - SVM model
+- Random Forest
