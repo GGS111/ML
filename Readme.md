@@ -5,3 +5,4 @@
 - Logistic regression binary
 - Logistic regression Multiclass
 - Decision Tree 
+- SVM model
