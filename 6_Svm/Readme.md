@@ -11,3 +11,9 @@
 - kernel trick
 
 ![plot](./kernel_trick.jpg)
+
+### Changes:
+
+- Regularization C
+- Gamma
+- Kernel (Linear, Polynomial, rbf, sigmoid)
