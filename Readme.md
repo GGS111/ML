@@ -7,3 +7,4 @@
 - Decision Tree 
 - SVM model
 - Random Forest
+- Cross Validation

@@ -7,3 +7,4 @@
 ### Change:
 
 - Number of features
+- Normalization on/off

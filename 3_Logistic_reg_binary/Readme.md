@@ -7,3 +7,5 @@
 ### Change:
 
 - Number of features
+- Penalty (L1/L2)
+- Optimization Algoritm ('newton-cg', 'lbfgs', 'liblinear', 'sag', 'saga')
