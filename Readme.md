@@ -9,4 +9,5 @@
 - Random Forest
 - Cross Validation
 - k means
-- naive bayes
+- Naive bayes
+- Grid Search
