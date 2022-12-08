@@ -7,8 +7,9 @@
 
 ### Changes:
 
-- number of trees
-- max depths
-- min number of features in Node
-- number of features
-- Criterion: Gini, Entropy, LogLoss
+- n_estimators: number of trees
+- max_depth: max depths of model
+- min_samples_split: min number of features in Node
+- max_features: number of features
+- criterion: Criterion: Gini, Entropy, LogLoss
+- bootstrap='True` (default), otherwise the whole dataset is used for building.

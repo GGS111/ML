@@ -2,15 +2,15 @@
 
 ### The most important thing about the SVM model is that we can use the kernel trick in order to expand the space and make our classification better. The SVM model tries to find the maximum distance between class points. the third dimension is Z = x^2+y^2
 
-![plot](./2d_view.jpg)
+![plot](./5.png)
 
 - Transform 2D to 3D View
 
-![plot](./3d_view.jpg)
+![plot](./6.png)
 
 - kernel trick
 
-![plot](./kernel_trick.jpg)
+![plot](./7.png)
 
 ### Changes:
 

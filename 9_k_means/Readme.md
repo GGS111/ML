@@ -11,7 +11,7 @@
 
 ### Changes:
 
-- number of clusters
-- init (k-means++, random)
-- number of init tries
-- algorithm : {"lloyd", "elkan”}
+- n_clusters: number of clusters
+- init: initialization (k-means++, random)
+- n_init: number of init tries
+- algorithm : algorithm : {"lloyd", "elkan”}

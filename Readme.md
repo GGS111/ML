@@ -8,3 +8,5 @@
 - SVM model
 - Random Forest
 - Cross Validation
+- k means
+- naive bayes
