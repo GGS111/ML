@@ -1,4 +1,4 @@
-# Machine Learning Models
+# Machine Learning Models from scratch in py files and use Sklearn library in Jupyter Notebook
 
 - Linear regression binary
 - Linear regression Multiclass
