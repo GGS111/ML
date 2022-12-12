@@ -6,5 +6,4 @@
 
 ### Change:
 
-- Number of features
-- Normalization on/off
+- *normalize*: Normalization on/off
