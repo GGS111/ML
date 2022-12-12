@@ -1,4 +1,4 @@
-## Machine Learning Models
+# Machine Learning Models
 
 - Linear regression binary
 - Linear regression Multiclass
@@ -11,3 +11,7 @@
 - k means
 - Naive bayes
 - Grid Search
+- Regularization
+- KNN
+- PCA
+- CatBoost vs XGboost
